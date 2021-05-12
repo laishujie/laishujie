@@ -1,4 +1,4 @@
-### 找工作ing...... 💬
+### ing...... 💬
 
 <!--
 **laishujie/laishujie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
